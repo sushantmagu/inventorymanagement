@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="login node_modules" level="project" />
+    <orderEntry type="library" name="acorn-DefinitelyTyped" level="application" />
+    <orderEntry type="library" name="assertion-error-DefinitelyTyped" level="application" />
+    <orderEntry type="library" name="body-parser-DefinitelyTyped" level="application" />
+    <orderEntry type="library" name="cookie-parser-DefinitelyTyped" level="application" />
+    <orderEntry type="library" name="easy-session-DefinitelyTyped" level="application" />
+    <orderEntry type="library" name="expect.js-DefinitelyTyped" level="application" />
+    <orderEntry type="library" name="express-session-DefinitelyTyped" level="application" />
+    <orderEntry type="library" name="http-status-DefinitelyTyped" level="application" />
+    <orderEntry type="library" name="http-string-parser-DefinitelyTyped" level="application" />
+    <orderEntry type="library" name="jsonpath-DefinitelyTyped" level="application" />
+    <orderEntry type="library" name="mongodb-DefinitelyTyped" level="application" />
+    <orderEntry type="library" name="mongoose-DefinitelyTyped" level="application" />
+    <orderEntry type="library" name="node-form-DefinitelyTyped" level="application" />
+    <orderEntry type="library" name="Node.js v0.12.4 Core Modules" level="application" />
+    <orderEntry type="library" name="node_modules" level="application" />
+    <orderEntry type="library" name="passport-local-DefinitelyTyped" level="application" />
+    <orderEntry type="library" name="request-DefinitelyTyped" level="application" />
+    <orderEntry type="library" name="requirejs-DefinitelyTyped" level="application" />
+  </component>
+</module>
