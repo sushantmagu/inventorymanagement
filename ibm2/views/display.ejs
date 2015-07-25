@@ -1,0 +1,22 @@
+<html>
+<head>
+<title>Data from Mongo DB</title>
+</head>
+<body>
+<h2><%=message%></h2>
+
+<% if( Array.isArray(products) ) { %>
+<ul>
+<%products.forEach( function( prd ){ %>
+<b>
+<li> <%= prd.prdId %> ; <%= prd.name %> ; $<%= prd.price %></li>
+</b>
+<% })} else { %>
+<b>
+Id: <%= products.prdId %>
+Name: <%= products.name %>
+Price: $<%= products.price %>
+</b>
+<% }; %>
+</html>
+</body>
